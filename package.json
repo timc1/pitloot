@@ -1,0 +1,15 @@
+{
+  "name": "pitloot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "repository": "https://github.com/timc1/pitloot",
+  "author": "Tim <timchang@hey.com>",
+  "license": "MIT",
+  "scripts": {},
+  "peerDependencies": {},
+  "bugs": {
+    "url": "https://github.com/timc1/pitloot/issues"
+  }
+}
+
